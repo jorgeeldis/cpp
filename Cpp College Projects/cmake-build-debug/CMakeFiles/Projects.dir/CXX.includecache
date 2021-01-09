@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/MyStuff/Coding/C++/Projects/juego_matematico.cpp
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+time.h
+-
+iostream
+-
+
+C:/MyStuff/Coding/C++/Projects/tempCodeRunnerFile.cpp
+stdio.h
+-
+
