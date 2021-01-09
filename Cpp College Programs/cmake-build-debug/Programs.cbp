@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Programs"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/MyStuff/Coding/C++/Programs/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/MyStuff/Coding/C++/Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/MyStuff/Coding/C++/Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/MyStuff/Coding/C++/Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/MyStuff/Coding/C++/Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/MyStuff/Coding/C++/Programs/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/MyStuff/Coding/C++/Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/MyStuff/Coding/C++/Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/MyStuff/Coding/C++/Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/MyStuff/Coding/C++/Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Programs">
+				<Option output="C:/MyStuff/Coding/C++/Programs/cmake-build-debug/Programs.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/MyStuff/Coding/C++/Programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/MyStuff/Coding/C++/Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 Programs"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/MyStuff/Coding/C++/Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/MyStuff/Coding/C++/Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/MyStuff/Coding/C++/Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Programs/fast">
+				<Option output="C:/MyStuff/Coding/C++/Programs/cmake-build-debug/Programs.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/MyStuff/Coding/C++/Programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/MyStuff/Coding/C++/Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 Programs/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/MyStuff/Coding/C++/Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/MyStuff/Coding/C++/Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/MyStuff/Coding/C++/Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/MyStuff/Coding/C++/Programs/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/MyStuff/Coding/C++/Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/MyStuff/Coding/C++/Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/MyStuff/Coding/C++/Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/MyStuff/Coding/C++/Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/IMC.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/area_circulo.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/area_volumen_esfera.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/aritmetica.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/arreglo.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/arreglo_2.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/arreglo_3.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/arreglo_4.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/banco.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/bank.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/bank_complete.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/calorias.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/cubo.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/distancia.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/divisible.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/ecuaciones_segundo_grado.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/frase_2.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/frases.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/hello_world.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/lados.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/media.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/minutos.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/minutos_2.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/negativos.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/notas.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/numero_par.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/numero_pi.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/numero_real.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/numeros.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/numeros_2.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/numeros_enteros.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/perimetro_circulo.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/precio_producto.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/suma.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/sumatoria.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/switch_uso.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/tanque_agua.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/triangulos.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/uso_if_else.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/vocales.cpp">
+			<Option target="Programs"/>
+		</Unit>
+		<Unit filename="C:/MyStuff/Coding/C++/Programs/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
